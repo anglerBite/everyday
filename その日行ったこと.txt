@@ -1,2 +1,2 @@
 その日行ったこと
-9/1 　typescript git nodejs
+9/1 　typescript git node.js。
