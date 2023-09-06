@@ -1,2 +1,3 @@
 その日行ったこと
 9/1 　typescript git node.js。
+9/6 typescriptの勉強。Reactは後回し。先にjavascript,typescriptを覚える。
