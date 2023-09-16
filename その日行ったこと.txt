@@ -2,3 +2,4 @@
 9/1 　typescript git node.js。
 9/6 typescriptの勉強。Reactは後回し。先にjavascript,typescriptを覚える。
 9/14 typescriptの勉強。コールバック関数について再度確認。
+9/16 typescriptとreactの勉強。
